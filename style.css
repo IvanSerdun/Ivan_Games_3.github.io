@@ -24,3 +24,14 @@ a {
 p {
     font-size: 25px;
 }
+
+footer a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    background-color: orangered;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 31px;
+    color: aliceblue;
+}
